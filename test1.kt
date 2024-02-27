@@ -1,7 +1,7 @@
 fun main() {
     val a = readln()
-    val b = 2
+    val b = "mystring+0.1"
 
     print(a)
-    print(b)
+    print("b+a")
 }
